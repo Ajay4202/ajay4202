@@ -16,10 +16,7 @@ Market Research & Compensation Benchmarking
 ## 📫 Contact
 - Email: ajay.hwg@gmail.com
 - LinkedIn: [www.linkedin.com/in/ajaysjagtap)
-[MY PIC](https://github.com/user-attachments/assets/854e9987-a62c-4cf4-8a07-246ffb9ca750)
+![MY PIC](https://github.com/user-attachments/assets/d85b6449-3efc-4022-9585-37f81f47f27b)
 
-
-
-<img src="screenshot.png" width="600"/>
 
 
