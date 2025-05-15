@@ -16,8 +16,7 @@ Market Research & Compensation Benchmarking
 ## 📫 Contact
 - Email: ajay.hwg@gmail.com
 - LinkedIn: [www.linkedin.com/in/ajaysjagtap)
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Python](https://img.shields.io/badge/Code-Python-blue)![MY PIC](https://github.com/user-attachments/assets/854e9987-a62c-4cf4-8a07-246ffb9ca750)
+[MY PIC](https://github.com/user-attachments/assets/854e9987-a62c-4cf4-8a07-246ffb9ca750)
 
 
 
